@@ -16,7 +16,7 @@
 
 # 推荐资料
 
-1. [廖雪峰Git教程]: https://www.liaoxuefeng.com/wiki/896043488029600
+1. [廖雪峰Git教程]: https://www.liaoxuefeng.com/wiki/896043488029600	"廖雪峰Git教程"
 
    
 
