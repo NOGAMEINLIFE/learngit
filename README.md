@@ -7,8 +7,9 @@
 
 # Git学习笔记内容
 
-1. Git简单介绍和安装
-2. Git命令行操作
+1. Git介绍和安装
+2. Git和Github的操作
+3. Git命令行操作
 
 # 后续补充
 
@@ -16,7 +17,7 @@
 
 # 推荐资料
 
-[git@github.com:yangxiaocong406/learnGit.git]: 阿萨德	"阿萨德"
+
 
 
 
